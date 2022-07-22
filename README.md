@@ -25,5 +25,12 @@ We wrote test cases for the smart contract functionalities so that they will beh
 
 
 
+### About the application
+
+This is just a basic application, which is a todolist that stores some data on a local blockchain
+
+By doing this we wanted to know how a decentralized application work
+
+Every time we perform a task like adding a task or deleting a task, we have to make a transaction through our metamask wallet
 
 
